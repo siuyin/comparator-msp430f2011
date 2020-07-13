@@ -1,0 +1,13 @@
+*.swp
+*secret*
+Debug
+Release
+.ccsproject
+.cdtbuild
+.cdtproject
+.launches
+.project
+.settings
+MSP430F2011.ccxml
+lnk_msp430f2011.cmd
+
